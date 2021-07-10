@@ -12,3 +12,5 @@ https://github.com/Kunye-Shen/Evaluation-Tool-MATLAB.git
 2. Cd to the directory 'Compare_code', run the evaluation code by command: ```matlab main.m```.
 
 ## Implemented measures
+### Precision-recall curves and F-measure curves
+![Precision-recall curves and F-measure curves](figures/results.png)
