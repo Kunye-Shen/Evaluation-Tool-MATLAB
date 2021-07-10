@@ -11,4 +11,4 @@ MATLAB R2016a
 ```
 https://github.com/Kunye-Shen/Evaluation-Tool-MATLAB.git
 ```
-3. Cd to the directory 'Compare_code', run the evaluation code by command: ```matlab main.m```.
+2. Cd to the directory 'Compare_code', run the evaluation code by command: ```matlab main.m```.
